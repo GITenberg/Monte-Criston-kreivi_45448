@@ -1,0 +1,45 @@
+_repo: Monte-Criston-kreivi_45448
+_version: 0.1.0
+alternative_title: Le comte de Monte-Cristo. Finnish
+contributor:
+  translator:
+    agent_name: Finne, Jalmari
+    birthdate: 1874
+    deathdate: 1938
+    gutenberg_agent_id: '43291'
+    url: http://www.gutenberg.org/2009/agents/43291
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas père, Alexandre
+    - Dumas, Alexander
+    - Dumas, Alexandre, pere
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: ''
+gutenberg_issued: '2014-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45448'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PQ'
+- !lcsh 'Dantès, Edmond (Fictitious character) -- Fiction'
+- !lcsh 'France -- History -- 19th century -- Fiction'
+- !lcsh 'Prisoners -- Fiction'
+- !lcsh 'Pirates -- Fiction'
+- !lcsh 'Revenge -- Fiction'
+title: Monte-Criston kreivi
+url: http://www.gutenberg.org/ebooks/45448
